@@ -1,0 +1,7 @@
+{
+    "base_url": "https://publish.mynewsdesk.com/127067",
+    "reports_list_url": "https://publish.mynewsdesk.com/127067/reports",
+    "excel_filename": "mynewsdesk_metrics.xlsx",
+    "output_folder": "output",
+    "debug_html": true
+}
